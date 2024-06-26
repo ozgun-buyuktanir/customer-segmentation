@@ -1,5 +1,5 @@
-Bir marketin verileri kullanılarak müşteri segmentasyonunun hazırlanması.
-[Veri setinin Linki.](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+Bir marketin verileri kullanılarak müşteri segmentasyonunun hazırlanması ve kampanya katılımının tespiti.
+[Veri setinin linki.](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
 **Kolon Açıklamaları**
 
